@@ -7,50 +7,95 @@
 
 body {
     background-color: hsl(30, 54%, 90%);
-    
     display: flex;
     justify-content: center;
     color: hsl(24, 5%, 18%);
 }
 
 .container {
-    margin-top: 10vh;
-    min-width: 400px;
-    width: 900px;
-    padding: 50px;
-    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    margin: 10vh 0;
+    min-width: 350px;
+    width: 750px;
+    padding: 40px;
+    border-radius: 20px;
     background-color: hsl(0, 0%, 100%);
+    gap: 30px;
 }
 
 .header {
     display: flex;
     flex-direction: column;
-    gap: 30px;
+    gap: 20px;
 }
 
 .header .img {
     width: 100%;
     height: auto;
-    border-radius: 25px;
+    border-radius: 15px;
 }
 
-.title {
+h1 {
     font-family: 'young serif', 'Outfit', sans-serif;
     font-weight: 400;
-    font-size: 40px;
 }
 
-.header p {
-    font-size: 18px;
+h2 {
+    font-family: 'young serif', 'Outfit', sans-serif;
     font-weight: 400;
+    color: hsl(14, 45%, 36%);
+}
+
+h3 {
+    color: hsl(332, 51%, 32%);
+    font-weight: 600;
 }
 
 .preparation-time {
     background-color: hsl(330, 100%, 98%);
     padding: 20px 30px;
-    margin-top: 20px;
+    border-radius: 20px;
 }
 
-.better-list-position {
-    list-style-position: inside;
+.items-grid {
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: 50px auto;
+    row-gap: 20px;
+}
+
+.icon {
+    font-size: 5px;
+    color: hsl(332, 51%, 32%);
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 8px;
+}
+
+.brown {
+    color: hsl(14, 45%, 36%);
+    font-weight: 700;
+}
+
+hr {
+    color: hsl(30, 18%, 87%);
+}
+
+.nutrition {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.nutrition-table {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+}
+
+.nutrition-item {
+    display: grid;
+    grid-template-columns: 45% 45%;
+    margin-left: 35px;
 }

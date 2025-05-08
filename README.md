@@ -20,8 +20,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/cristianmdn/simple-recipe)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repo](https://github.com/cristianmdn/simple-recipe)
+- Live Site URL: [Website](https://crm-simple-recipe.netlify.app/)
 
 ## My process
 
@@ -38,13 +38,16 @@ This was a great experience. I learned how to:
 - Link google fonts.
 - Use incos.
 - Write reusable code for CSS.
-- How to use Media Queries.
-- How to structure the HTML page and make it simple, and adding a few comments when necessary to make it more readable.
-- How to read the CSS docs when I needed help to fix something before looking for a video tutorial.
+- When and how to use flexbox or grid.
+- Use Media Queries.
+- Structure the HTML page and adding comments when necessary to make it more readable.
+- Read the CSS docs when I needed help to fix something before looking for a video tutorial.
+- Use git and github.
+- Deploy with Netlify.
 
 I'm sure there are things that I didn't do right or that can be done better but for now, this is the best I can do for this project.
 I will look for better solutions and continue to learn from them after I submit my project and share it to the community. Big thanks to the Frontend Mentor and Kyle from "Web Deb Simplified". You guys make incredible content.
 
 ## Author
 
-- Frontend Mentor - [@cristianmdn](https://www.frontendmentor.io/profile/cristianmdn)
+- Cristian R.M. - [@cristianmdn](https://www.frontendmentor.io/profile/cristianmdn)

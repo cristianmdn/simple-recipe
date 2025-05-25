@@ -46,7 +46,7 @@ This was a great experience. I learned how to:
 - Deploy with Netlify.
 
 I'm sure there are things that I didn't do right or that can be done better but for now, this is the best I can do for this project.
-I will look for better solutions and continue to learn from them after I submit my project and share it to the community. Big thanks to the Frontend Mentor and Kyle from "Web Deb Simplified". You guys make incredible content.
+I will look for better solutions and continue to learn from them after I submit my project and share it to the community. Big thanks to Kevin Powell and Kyle from "Web Deb Simplified". They have incredible content on their YouTube channel.
 
 ## Author
 
